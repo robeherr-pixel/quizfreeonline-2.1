@@ -1,0 +1,4 @@
+question,type,options
+"¿Cuál es tu herramienta favorita?",single,"ChatGPT|Excel|PowerPoint|Canva"
+"¿Qué temas te interesan?",multiple,"Tecnología|Educación|Negocios|Marketing"
+"¿Recomendarías este curso?",single,"Sí|No|Tal vez"
